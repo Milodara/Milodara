@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Milodara, a student pursuing a **Bachelor of Science in Computer Science**.
-- 👀 I’m interested in Computer Science/Software Engineering, specifically working in the backend....
-- 🌱 I’m currently learning **Django, Rust, and PostgreSQL** ...
-- 💞️ I'm Familiar with **Javascript and Python**  ...
+- 👀 I’m interested in Computer Science/Software Engineering, specifically working in the backend.
+- 🌱 I’m currently learning **Django, Git, and PostgreSQL** 
+- :frog: I plan on learning **Rust, Java, and Spring**
+- 💞️ I'm Familiar with **Javascript and Python** 
 <img align='right' src='https://thumbs.gfycat.com/VainTiredCaudata-max-1mb.gif' width='200"'>
 
 
