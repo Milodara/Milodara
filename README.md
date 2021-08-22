@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Milodara, a student pursuing a **Bachelor of Science in Computer Science**.
+- 👋 Hi, I’m @Milodara, an undergrad student pursuing a **Bachelor of Science in Computer Science**.
 - 👀 I’m interested in Computer Science/Software Engineering, specifically working in the backend.
 - 🌱 I’m currently learning **Django, Git, and PostgreSQL** 
 - :frog: I plan on learning **Rust, Java, and Spring**
