@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science/Software Engineering, specifically working in the backend.
 - 🌱 I’m currently learning **Django, Git, and PostgreSQL** 
 - :frog: I plan on learning **Rust, Java, and Spring**
-- 💞️ I'm Familiar with **Javascript and Python** 
+- 💞️ I'm Familiar with **Javascript, React/Redux and Python** 
 <img align='right' src='https://thumbs.gfycat.com/VainTiredCaudata-max-1mb.gif' width='200"'>
 
 
