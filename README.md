@@ -1,7 +1,7 @@
 - 🌱 I’m currently learning **SQL and Docker** 
 - :frog: I plan on learning **Rust**
 - 💞️ I'm Familiar with **HTML/CSS/JS/TS, Go, and C++** 
-<img align='right' src='https://thumbs.gfycat.com/VainTiredCaudata-max-1mb.gif' width='200"'>
+<img align='center' src='https://thumbs.gfycat.com/VainTiredCaudata-max-1mb.gif' width='200"'>
 
 
 <!---
