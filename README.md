@@ -3,7 +3,7 @@
 - :frog: I plan on learning **Rust**
 - 💞️ I'm Familiar with **HTML/CSS/JS/TS, Go, and C++** 
 --->
-<img align='left' src='https://thumbs.gfycat.com/VainTiredCaudata-max-1mb.gif' width='200"'>
+<img align='left' src='https://thumbs.gfycat.com/VainTiredCaudata-max-1mb.gif' height ='200' width='200"'>
 
 
 <!---
